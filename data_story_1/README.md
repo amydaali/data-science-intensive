@@ -1,1 +1,1 @@
-For the first part of my Data Story project I did some exploratory analysis a climate change data set.
+For the first part of my Data Story project I did some exploratory analysis on a climate change data set.
