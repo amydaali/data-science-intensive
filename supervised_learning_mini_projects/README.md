@@ -1,2 +1,0 @@
-This notebook contains the projects for supervised learning for Slide Rule's Data Science Intensive Program which are taken from lectures from Udacity's Intro to Machine Learning Course.
-It deals with using Naive Bayes, SVM, and Decision Trees to try to predict the author of an email. Further details are available in the notebook.
